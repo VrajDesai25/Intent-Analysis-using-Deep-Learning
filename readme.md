@@ -1,0 +1,1 @@
+A simple project based which involves finding intent behind comments from a user and providing the user with the intent classfication of their comment and correspondingly taking them to a website of their needs.<br />
